@@ -1,2 +1,8 @@
-# image_classification_cat_and_dog
-this is an cat and dog image detection system.
+# Image_classification_CNN-Tensorflow
+Classify dog and cat images of kaggle data
+
+## Loss
+![Loss](./assests/loss.JPG)
+
+## Author
+Junho Kim
